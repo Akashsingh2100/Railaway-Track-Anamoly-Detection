@@ -4,7 +4,7 @@ Railway Track Anomaly Detection is a machine learning project aimed at enhancing
 
 
 How It Works
-Data Collection: The dataset used for this project comprises images of railway tracks, some of which contain anomalies or faults, while others are normal. These images are annotated to indicate the presence of an anomaly.
+Data Collection: The dataset used for this project comprises images of railway tracks, some of which contain anomalies or faults, while others are normal. These images are provided by salmaneunus on Kaggle to indicate the presence of an anomaly.
 
 Transfer Learning: Transfer learning is employed using the MobileNet V3 architecture. MobileNet V3 is a convolutional neural network (CNN) pretrained on a large dataset and is capable of feature extraction from images.
 
@@ -33,10 +33,7 @@ The project's success can be gauged by observing the loss and accuracy curves du
 
 Contributions, bug reports, and suggestions for improvement are welcome! If you encounter any issues or have ideas to enhance the railway track anomaly detection project, please feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
+Acknowledgment
 The dataset used in this project is provided by salmaneunus on Kaggle.
 By automating the process of anomaly detection on railway tracks, this project aims to make train travel even safer and more reliable. Your contributions can help drive this mission forward.
 
